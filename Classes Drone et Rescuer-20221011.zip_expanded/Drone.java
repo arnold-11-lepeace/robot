@@ -11,7 +11,7 @@ public class Drone {
 		ref = r;
 		started = false;
 		posX = 0;
-		posY = 0;
+		posY = 1;
 		posZ = 0;
 	}
 	
