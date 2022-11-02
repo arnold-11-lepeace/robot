@@ -10,7 +10,7 @@ public class Drone {
 	public Drone(String r) {
 		ref = r;
 		started = false;
-		posX = 1;
+		posX = 0;
 		posY = 0;
 		posZ = 0;
 	}
